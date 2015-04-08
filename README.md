@@ -10,5 +10,4 @@
 [image]: https://raw.githubusercontent.com/HansHuang/IconResource/master/Icon%20Repository%2096dpi/Glance1-168.png
  "Glance: 1-168"
     2. Glance: 168-325
-[![image]](https://github.com/HansHuang/IconResource)
-[image]: https://raw.githubusercontent.com/HansHuang/IconResource/master/Icon%20Repository%2096dpi/Glance169-325.png "Glance: 169-325"
+<a href="https://github.com/HansHuang/IconResource" title="Glance: 168-325"><img src="https://raw.githubusercontent.com/HansHuang/IconResource/master/Icon%20Repository%2096dpi/Glance169-325.png"/></a>
